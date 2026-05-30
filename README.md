@@ -1,4 +1,4 @@
-# UX Case Studies — Blackstar Digital Studio
+h# UX Case Studies — Blackstar Digital Studio
 
 **A collection of UX audits, friction analysis and conversion optimisation work across real digital ecosystems.**
 
@@ -50,8 +50,8 @@ Italian restaurant in a tourist area with a website that didn't convert visits i
 
 ---
 
-### ⛽ Gas Project — Digital Studio Brand & Lead Generation
-**Sector:** Digital Studio / B2B · **Location:** Italy
+### ⛽ Gas Project — Automotive Workshop Positioning & Lead Generation
+**Sector:** Automotive / Racing · **Location:** Italy
 
 **Business problem:**
 Digital studio without a strong online presence. Website wasn't generating leads or communicating credibility to potential clients.
